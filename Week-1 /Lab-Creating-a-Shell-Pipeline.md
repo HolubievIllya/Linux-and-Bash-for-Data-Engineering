@@ -1,4 +1,5 @@
 ## Creating a Shell Pipeline
+
 #### Part 1: Count the lines in the file and inspect the contents
 <ul>
   <li><b>wc -l nba_2017.csv</b></li>
